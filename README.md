@@ -1,70 +1,40 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Kanban-Board
+We can handle our tasks easily using this kanban board
+# What it does
+It will help us manage our tasks easily and do team work efficiently
+# Initialisation
+We are going to do this project in React by react-vite.
+# Prospective of React-Vite
+This react vite is faster than the usual c-r-a , also error efficient and wecan use it in our furture technologies like vue, node.js and many more. 
+<h1>Features of Kanban</h1>
+<h3><li>Visual Workflow</li></h3>
+The Kanban Board offers a visual representation of tasks, organized into different columns representing the workflow stages (e.g., "To Do," "In Progress," "Done"). This enables teams to have a clear understanding of the project's status at a glance.
+<h3><li>Drag-and-Drop Functionality</li></h3>
+With the intuitive drag-and-drop functionality, tasks can be easily moved between columns to reflect their current status. This allows for seamless task management and quick updates without the need for complex manual adjustments.
+<h3><li>Collaborative Environment</li></h3>
+The Kanban Board promotes collaboration by enabling team members to add comments, assign tasks to individuals, set due dates, and attach relevant files or links. This fosters transparency, accountability, and effective communication among team members.
+<h3><li>Real-Time Updates</li></h3>
+ All changes made on the Kanban Board are updated in real-time, ensuring that everyone has access to the latest information. This eliminates confusion, enhances coordination, and keeps the entire team aligned.
+ <h1> Tech Stack </h1>
+ <ul>
+  <li>React JS</li>
+  <li>React Icons</li>
+  <li>Material UI</li>
+  <li>React Router</li>
+  <li>React beautiful DnDs</li>
+  <li>React Redux</li>
+  <li>Redux Toolkit</li>
+  <h1>Installation</h1>
+To install and run the application locally, follow these steps:
+<ul>
+<li>Clone this repository to your local machine</li>
+<li>Run npm install to install all dependencies</li>
+<li>Run npm run dev to start the development server</li>
+</ul>
+  <h1>Collaborators</h1>
+ <ol>
+<li>Ashwini kumari<a href="https://github.com/ashwini286"> https://github.com/ashwini286</a></li>
+</ol>
+  <h1>Deployment Link </h1>
+  <h1>Acknowledgment</h1>
+  We would like to acknowledge the valuable contributions of the open-source community and the various libraries and frameworks that have made the Kanban Board possible. Their dedication and commitment have been instrumental in developing this powerful project management tool.
