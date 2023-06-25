@@ -1,0 +1,59 @@
+/* .navbar{
+    height: 100vh;
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+}
+.app-navbar{
+    width: 100%;
+    border-bottom: 2px solid gray;
+} */
+.navbar{
+    display: flex;
+    flex-direction: column;
+    height: 80px;
+    /* border: 2px solid gray; */
+    padding: 0;
+    
+    /* justify-content: flex-end; */
+
+}
+.app-navbar{
+    width: 100%;
+    /* border-bottom: 2px solid gray; */
+
+}
+.themes{
+    display: flex;
+    /* justify-content: end; */
+    margin-right: 80px;
+    padding: 20px;
+    margin-top: -20px;
+    /* margin-left: -400px; */
+}
+.themes button{
+    margin-top: 30px;
+    /* justify-content: end; */
+    outline: none;
+    border: none;
+    color: #fff;
+    background-color: #1379ec;
+    transition: 200ms;
+    padding: 10px 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.btn{
+    justify-content: end;
+    margin-left:1200px;
+}
+.themes button:hover{
+    background-color: #0765d1;
+}
+.changetheme{
+
+}
+.clearBoard{
+
+}

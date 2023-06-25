@@ -1,0 +1,39 @@
+.card_title{
+    font-weight: bold;
+}
+
+.card-footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.card_lables{
+    margin-right: 100px;
+}
+/* .card_top_more .threedots{
+    color: white;
+} */
+
+.card-footer p{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+.card_top_more{
+    position: relative;
+    cursor: pointer;
+    left: 250px;
+}
+.card_dropdown{
+    background-color: white;
+    margin-left: -200px;
+    text-align: center;
+    width: 30px; 
+    padding: 10px;
+    border-radius: 3px;
+    box-shadow:  1px 0  20px rgba(0, 0, 0, 0.15);
+}
+.card_dropdown p{
+cursor: pointer;
+}
